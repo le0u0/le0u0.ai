@@ -1,26 +1,45 @@
 {
   "name": "marketplace",
-  "owner": { "name": "Leo Ho" },
+  "owner": {
+    "name": "Leo Ho"
+  },
   "plugins": [
     {
-      "name": "watch-out",
-      "source": { "source": "github", "repo": "le0u0/watch-out" },
-      "description": "Shows context window use and plan usage"
-    },
-    {
       "name": "campfire",
-      "source": { "source": "github", "repo": "le0u0/campfire" },
-      "description": "Hides tool calls and shows an animated campfire above the prompt that grows as the job nears done"
+      "source": {
+        "source": "github",
+        "repo": "le0u0/campfire"
+      },
+      "description": "Hides tool calls and shows an animated campfire above the prompt that grows as the job nears done",
+      "category": "mod"
     },
     {
-      "name": "ping-me",
-      "source": { "source": "github", "repo": "le0u0/ping-me" },
-      "description": "macOS alerts for Claude Code questions, approvals, and responses from any terminal, with click-to-open Cursor or VS Code."
+      "name": "watch-out",
+      "source": {
+        "source": "github",
+        "repo": "le0u0/watch-out"
+      },
+      "description": "Shows context window use and plan usage",
+      "category": "mod"
     },
     {
       "name": "just-do-it",
-      "source": { "source": "github", "repo": "le0u0/just-do-it" },
-      "description": "Project-agnostic manager, agents, and skills for ticket-driven development: think, plan, develop, test, review."
+      "source": {
+        "source": "github",
+        "repo": "le0u0/just-do-it"
+      },
+      "description": "Project-agnostic manager, agents, and skills for ticket-driven development: think, plan, develop, test, review.",
+      "category": "plugin"
+    },
+    {
+      "name": "ping-me",
+      "source": {
+        "source": "github",
+        "repo": "le0u0/ping-me"
+      },
+      "description": "macOS alerts for Claude Code questions, approvals, and responses from any terminal, with click-to-open Cursor or VS Code.",
+      "category": "plugin"
     }
-  ]
+  ],
+  "description": "Claude Code mods and plugins by Leo Ho"
 }
