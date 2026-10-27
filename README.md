@@ -1,12 +1,10 @@
-# community
-
-Claude Code mods and plugins by Leo Ho.
+# le0u0.ai
 
 ## Install
 
 ```
-/plugin marketplace add le0u0/community
-/plugin install <name>@community
+/plugin marketplace add le0u0/le0u0.ai
+/plugin install <name>@le0u0.ai
 ```
 
 ## Mods
