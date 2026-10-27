@@ -7,8 +7,8 @@
     {
       "name": "campfire",
       "source": {
-        "source": "github",
-        "repo": "le0u0/campfire"
+        "source": "url",
+        "url": "https://github.com/le0u0/campfire.git"
       },
       "description": "Hides tool calls and shows an animated campfire above the prompt that grows as the job nears done",
       "category": "mod"
@@ -16,8 +16,8 @@
     {
       "name": "watch-out",
       "source": {
-        "source": "github",
-        "repo": "le0u0/watch-out"
+        "source": "url",
+        "url": "https://github.com/le0u0/watch-out.git"
       },
       "description": "Shows context window use and plan usage",
       "category": "mod"
@@ -25,8 +25,8 @@
     {
       "name": "just-do-it",
       "source": {
-        "source": "github",
-        "repo": "le0u0/just-do-it"
+        "source": "url",
+        "url": "https://github.com/le0u0/just-do-it.git"
       },
       "description": "Project-agnostic manager, agents, and skills for ticket-driven development: think, plan, develop, test, review.",
       "category": "plugin"
@@ -34,8 +34,8 @@
     {
       "name": "ping-me",
       "source": {
-        "source": "github",
-        "repo": "le0u0/ping-me"
+        "source": "url",
+        "url": "https://github.com/le0u0/ping-me.git"
       },
       "description": "macOS alerts for Claude Code questions, approvals, and responses from any terminal, with click-to-open Cursor or VS Code.",
       "category": "plugin"
