@@ -1,0 +1,20 @@
+{
+  "name": "le0u0-ai",
+  "interface": {
+    "displayName": "le0u0.ai"
+  },
+  "plugins": [
+    {
+      "name": "just-do-it",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/le0u0/just-do-it.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
