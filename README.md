@@ -2,21 +2,25 @@
 
 ## Install
 
-### Claude Code
+<details>
+<summary>Claude Code</summary>
 
 ```
 /plugin marketplace add le0u0/le0u0.ai
 /plugin install <name>@le0u0.ai
 ```
 
-### Codex
+</details>
+
+<details>
+<summary>Codex (Plugins only)</summary>
 
 ```bash
 codex plugin marketplace add le0u0/le0u0.ai
-codex plugin add just-do-it@le0u0-ai
+codex plugin add <plugin-name>@le0u0-ai
 ```
 
-Codex currently supports `just-do-it`.
+</details>
 
 ## Mods
 
